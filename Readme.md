@@ -13,3 +13,8 @@ Decentralized StarNotary Blockchain
   SHT  
 **“Token Address” on the Rinkeby Network**  
 0x5586D47e0ea1720EB469c903B7B036c808eF0b33  
+
+
+
+
+This is related to Udacity Blockchain nanodegree
